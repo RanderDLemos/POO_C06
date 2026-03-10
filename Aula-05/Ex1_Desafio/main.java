@@ -1,3 +1,5 @@
+//matriz 2x2 com 1 bomba
+
 import java.util.Scanner;
 
 public class main {
